@@ -1,7 +1,0 @@
-Hello team,
-
-Please contact us at support@example.com, hr@company.org,
-or directly reach out to john.doe123@domain.in.
-
-Regards,
-Admin
